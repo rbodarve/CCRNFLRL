@@ -1,2 +1,2 @@
 # CCRNFLRL
-This repository is for CCRNFLRL 
+This repository is for Reinforcement Learning Subject Exercises (CCRNFLRL) 
